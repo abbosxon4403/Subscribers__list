@@ -1,0 +1,22 @@
+[
+  {
+    "ism": "ali",
+    "familiya": "salimov",
+    "yosh": 18
+  },
+  {
+    "ism": "vali",
+    "familiya": "karimov",
+    "yosh": 22
+  },
+  {
+    "ism": "salima",
+    "familiya": "alimova",
+    "yosh": 45
+  },
+  {
+    "ism": "karima",
+    "familiya": "valiyeva",
+    "yosh": 30
+  }
+]
